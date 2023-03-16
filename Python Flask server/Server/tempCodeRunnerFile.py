@@ -1,1 +1,1 @@
-asii_price
+get_location_names
